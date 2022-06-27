@@ -1,5 +1,5 @@
 # FrontEnd_Architecture
-<strong> Làm bất kể cái gì, trong lĩnh vực nào cũng thế, muốn xây dựng cái gì lớn lao thì phải xây dựng được một kiến trúc để theo kiến trúc này mình dễ dạng xây dựng mà sửa chữa mới được. </br> Nhất là trong javascript code nó hơi sexy mà đi mò chức năng thì rất mất thời gian</strong>
+<strong style="color:red"> Làm bất kể cái gì, trong lĩnh vực nào cũng thế, muốn xây dựng cái gì lớn lao thì phải xây dựng được một kiến trúc để theo kiến trúc này mình dễ dạng xây dựng mà sửa chữa mới được. Nhất là trong javascript code nó hơi sexy mà đi mò chức năng thì rất mất thời gian</strong>
 
 - Ở mức tổng thể thì có kiến trúc tổng thể 9phar của TOGAP.
 - Ở múc hệ thống thì có kiến trúc hệ thống.
