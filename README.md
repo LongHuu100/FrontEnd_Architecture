@@ -15,9 +15,9 @@ Atomic Design là cách tiếp cận kiểu thiết kế giao diện bằng các
 * Templates: Là kết hợp các organisms với nhau tạo thành các trang.
 *  Pages: Là các mẫu cụ thể. Họ sẽ kiểm tra templates làm việc với nội dung thực tế như thế nào, cho phép các designers quay trở lại để chỉnh sửa các molecules, organisms, và các templates khi cần thiết.
 
-<img src ="" />
+<img src ="https://github.com/LongHuu100/FrontEnd_Architecture/blob/main/amomic.jpg" />
 
 
 Kiến trúc khung của FE khi bắt đầu một project mới.
 
-<img src ="" />
+<img src ="https://github.com/LongHuu100/FrontEnd_Architecture/blob/main/fe.jpg" />
