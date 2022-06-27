@@ -2,7 +2,7 @@
 <strong style="color:red"> Làm bất kể cái gì, trong lĩnh vực nào cũng thế, muốn xây dựng cái gì lớn lao thì phải xây dựng được một kiến trúc để theo kiến trúc này mình dễ dạng xây dựng mà sửa chữa mới được. Nhất là trong javascript code nó hơi sexy mà đi mò chức năng thì rất mất thời gian</strong>
 
 - Ở mức tổng thể thì có kiến trúc tổng thể 9phar của TOGAP.
-- Ở múc hệ thống thì có kiến trúc hệ thống.
+- Ở mức hệ thống thì có kiến trúc hệ thống.
 - Ở mức dev thì có kiến trúc phần mềm bao gồm Backend và Frontend.
 
 Trong Frontend chúng ta cần tạo các component theo nguyên tắc SOLID nhưng việc gộp tất cả chúng tạo thành một page lớn thì lại khác, nó phải cần phải có tính tái sử dụng cao, do đó chúng ta cần một kiến trúc mới để có thể dễ dàng lắp ghép nó thành một page. 
