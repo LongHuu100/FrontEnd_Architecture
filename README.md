@@ -12,7 +12,6 @@ Atomic Design với 5 level (Atoms, Molecules, Organisms, Templates, Pages).
 Atomic Design là cách tiếp cận kiểu thiết kế giao diện bằng cách xây dựng nên một hệ thống các components thay vì các trang. Phương pháp này chú trọng đến các đối tượng nhỏ, độc lập, tái sử dụng các thành phần để kết hợp chúng lại tạo thành 1 tổng thể. Điều này cho phép hoàn thành sản phẩm nhanh chóng, giao diện thống nhất và dễ dàng bảo trì.
 
 * Atoms: Là thành phần nhỏ nhất, những block cơ bản nhất và không thể nhỏ hơn nữa (ví dụ: buttons, input fields, checkboxes, links). Chúng cũng có thể trừ tượng như colours, fonts chữ.
-* 
 * Molecules: Gồm các atom kết hợp vs nhau là các phần tử bên ngoài như đơn vị (ví dụ: một input field và một button có thể kết hợp thành một khung tìm kiếm). 	\
   Molecules có thể đơn giản hoặc phức tạp, được xây dựng để tái sử dụng hoặc chỉ dụng một lần. ví dụ hình ảnh sau: Thì molecules gồm ảnh và text, progess-bar, box-ảnh.
 * Organisms: Nhóm các Molecules giống nhau hoặc khác nhau để tạo thành một thành phần hoàn chỉnh của một giao diện. (Ví dụ: Header trang có thể kết hợp từ một logo, menu và khung tìm kiếm).
